@@ -1,0 +1,33 @@
+CI/CD Pipeline Management: I monitor and maintain the Jenkins pipelines that I've set up for continuous integration and deployment. This involves ensuring the pipelines run smoothly for new code commits from Git, building with Maven, running automated tests, and deploying to various environments (development, staging, production).
+
+Infrastructure as Code (IaC) with Terraform: I regularly use Terraform to manage and provision infrastructure. On any given day, I might be updating Terraform scripts to scale resources, automate new environments, or implement new infrastructure components. I ensure that all changes are versioned in Git for traceability and reviewed through pull requests.
+
+Configuration Management with Ansible: I use Ansible to automate environment setups and application configurations. Whether it's configuring new application servers, updating existing ones, or rolling out new microservices, I manage these processes through Ansible playbooks to ensure consistency across environments.
+
+Monitoring and Optimization: Monitoring application performance is crucial, so I work with Prometheus and Grafana to track system metrics. I routinely check dashboards to ensure everything is running optimally and set up alerts to preemptively detect any issues in Kubernetes clusters or other resources. I also focus on optimizing resource usage and improving the infrastructure's overall efficiency.
+
+Collaboration and Code Reviews: I work closely with developers to implement new features and resolve issues. This includes participating in daily standups, reviewing Git commits and pull requests, and ensuring all infrastructure changes are well-documented and aligned with best practices.
+
+Security and Compliance: Part of my daily routine involves checking the security of our deployments. I use Jenkins plugins to perform vulnerability scans on Docker images, implement best practices in Terraform scripts, and manage IAM policies to ensure our cloud infrastructure remains secure.
+
+Incident Response and Troubleshooting: Whenever an issue arises, I’m quick to jump in, identify the root cause, and apply a fix—whether it’s a pipeline failure, infrastructure downtime, or an application performance issue. Using tools like AWS CloudWatch and Grafana, I track performance and troubleshoot bottlenecks.
+
+Automating Manual Processes: I’m always looking for ways to reduce manual work, whether it’s automating data aggregation workflows, post-deployment configurations, or scaling applications in Kubernetes. I leverage tools like Ansible and Jenkins for this, ensuring repeatable and reliable processes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
